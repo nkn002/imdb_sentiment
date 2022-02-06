@@ -1,0 +1,2 @@
+- Achieved 94% accuracy on classification task on the IMDB sentiment  dataset
+- Fine-tuned Roberta base model on 25000 training captions and 25000 validation captions
